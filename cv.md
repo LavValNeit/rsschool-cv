@@ -31,3 +31,13 @@ HCRYPTHASH hCryptHash;
 			printf("%X%X", hashValue[i] >> 4, 0xF & hashValue[i]);
 		cout << endl;
 ```
+
+## **Experience**
+
+## **Education**
+
+* **University:** Samara State University, Informatics And Computer Engineering
+
+## **English**
+
+**B2**
