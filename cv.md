@@ -6,4 +6,11 @@
 
 ## **About Me**
 I'm just a student that want to learn JS, HTML and React
- 
+
+## **Skils**
+* HTML
+* JAVA
+* .NET
+* JavaScript (Basic)
+* TASM
+* AVR Assembler
