@@ -1,1 +1,2 @@
-https://LavValNeit.github.io/rsschool-cv/cv
+# rsschool-cv
+https://LavValNeit.github.io/rsschool-cv/
